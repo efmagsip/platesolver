@@ -1,2 +1,2 @@
 # platesolver
-Solve static plate fea problems
+Solve static plate finite element problems
